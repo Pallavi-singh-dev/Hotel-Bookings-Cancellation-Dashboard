@@ -3,7 +3,7 @@
 An end-to-end interactive dashboard built entirely using **MS Excel** (no AI tools used) to analyze over 119K+ hotel booking records and discover insights behind cancellation patterns.
 
 ## 📊 Live Preview
-![Dashboard Preview](image_b857e2.png)
+![Dashboard Preview](hotel_booking_dashboard.png)
 
 ## 🔑 Key Insights & Analytics
 * **Segment Volume:** Couples contribute to the highest booking volume (~81K+) and also experience the highest absolute numbers of cancellations (~32K+).
